@@ -1,0 +1,74 @@
+# Site
+name: 'Filtered Snippets'
+description: 'Filtered Snippets is a travel, lifestyle and food blog by a digital nomad and expat.'
+logo: 
+favicon: 'assets/images/favicon.ico'
+baseurl: ''
+disqus: 'filteredsnippets.github.io'
+# email: 'wowthemesnet@gmail.com'
+# mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
+authors:
+    kitty:
+      name:           Kitty
+      site:           
+      avatar:         assets/images/avatar2.jpg
+      bio:            "<p>Hi, I'm Kitty, the author of Filtered Snippets! I'm a digital nomad / expat and write about travel, life abroad, (foreign) food and books. 
+                      I traveled a lot as a student, and was always eager to know what life would be like somewhere else. 
+                      I finally left the Netherlands for good in 2016, when I moved to Spain for love. I also spent a year in Belgium, but my thirst for adventure never 
+                      allows me to stay home or in the same place for too long. Fortunately, I work remotely as a freelancer in educational publishing. 
+                      The luxury of being location independent has allowed me to explore 
+                      many parts of Europe, as well as Latin America and Asia.</p>                      
+                      <!--<b>Experience</b><br>
+                      <ul>
+                      <li>Educational Author/ Editor / Designer | self-employed (2016 - present)</li>
+                      <li>Trainee Teacher of English (2015-2016)</li></ul>
+                      <b>Education</b><br>
+                      <ul>
+                      <li>Master of Science in Education & Sustainability | Gothenburg University, Sweden (2018-present)</li>
+                      <li>Master of Science in Digital Humanities | KU Leuven, Belgium (2018-2019)</li>
+                      <li>Master of Arts in Applied Linguistics-TEFL | Groningen University, the Netherlands (2013-2014)</li>
+                      <li>Bachelor of Arts in English Language and Culture | Groningen University, the Netherlands (2010-2013)</li></ul>-->"
+      #instagram:      https://www.instagram.com/filteredsnippets/?hl=en
+      #pinterest:      https://www.pinterest.com/filteredsnippets
+
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: kitty
+      avatar: /assets/images/avatar2.jpg
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+# Excerpts
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]

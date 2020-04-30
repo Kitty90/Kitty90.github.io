@@ -1,0 +1,59 @@
+---
+layout: post
+title:  "Kanchanaburi: Natural Splendor and Gruesome History "
+author: kitty
+categories: [ travel, Thailand ]
+image: assets/images/kanchanaburi1.jpg
+tags: [Travel, Asia, Thailand]
+---
+
+<h4>A story about blood, sweat and tears, or our run-ins with a variety of secretions in the cesspool called Kanchanaburi, Thailand. Yes, I am referring to independent incidents and no, we are not dying of COVID-19 (yet). </h4>
+
+<p>Another week in Thailand has ended, and with it our time in Bangkok. The plan is to travel onwards to the island of Koh Lanta. We're quite glad to leave; as interesting and exciting as Bangkok is, we are not city people and it's nature that lets us check in with ourselves.  This was nothing new to us, but it was rubbed in our faces last weekend as we went on a little weekend trip to the countryside. The destination was Kanchanaburi, a city three hours west of Bangkok, close to the Burmese border, famous for its harrowing WWII history and known as the gateway to Thailand's wild west. Just what we needed, a breath of nature's pristinely fresh air. </p>
+
+<p>Except it wasn't a breath of fresh air, at least not in the literal sense as our mucus, skin, heads and clothes would soon testify. We are currently in the dry season, which is synonymous to crop burning season; Thai farmers are burning the residues of their rice fields. The result is an omnipresent fog of smoke that causes headaches and leaves you covered in ash particles in some areas. Honestly, I never mucus could be so black. On the train we were forced to wear our sunglasses at times to prevent the ash flying into our eyes. </p>
+
+<p><b>Getting to Kanchanaburi</b><br>
+Despite this little annoyance we had a grand time out west. We had taken the Friday morning train from Bangkok's Hualampong station at 7.45 AM to make sure we could make most of our weekend. After lugging our backpacks in the blistering heat on the half-hour walk from Kanchanaburi station, our basic rooms at Aajam Riverfront Rooms provided all the comfort we needed: airconditioning and lounge chairs in the garden out front,  overlooking the river Kwai.</p>
+
+<p><b>Scootering around Kanchanaburi province</b><br>
+There was no rest for the wicked, though, as we had planned to explore the area that afternoon. We set off, braving the heat again, on a quest to rent scooters. We found the cheeriest of women willing to rent us two scooters. I'm sure we all know who the two designated drivers would be. </p>
+<p>It turns out I not only have an irrational fear of driving, I have an inexplicable fear of being on the back of a death trap, wearing shorts and flipflops in Thai traffic as well. Ok, I wasn't really dressed for the occasion (I'd like to see you in 35 degrees in the tropics though) and scooting off directly onto the highway was a bit of a crash course - in the very real metaphorical sense and the imaginative literal sense as that's exactly how I saw this trip unfold in my head. We'd probably covered a mere 500 metres when I heard a car skidding behind me, courtesy of an inattentive driver who had to hit the brakes.  I lasted about a minute longer. We were going a whopping 30 kilometres per hour, but my mind was racing so fast with everything that could go wrong that it would have broken any speed limit. I asked if we could stop, stepped off the scooter and stood on the side of the road like a little drama queen, sweating like a pig, shaking my head, muttering "I can't do this" on repeat. No, this is not the <em>tears </em>part of the story. The boys, sweet as they are, calmed me down, drove the scooters back to the shop and I followed on my little chicken walk of shame. </p>
+
+<p>We had an incredible lunch at a spa-like resort, which the guys jokingly suggested would help me with my frazzled nerves. The deep fried fish with lemongrass salad was superb</p>
+
+<figure class="wp-block-gallery columns-1 is-cropped"><img src="https://paid-leave.com/wp-content/uploads/2020/02/IMG_20200221_131749-1024x768.jpg" alt="" data-id="396" data-full-url="https://paid-leave.com/wp-content/uploads/2020/02/IMG_20200221_131749-scaled.jpg" data-link="https://paid-leave.com/img_20200221_131749/" class="wp-image-396" height="350px"/></figure>
+
+<p>After lunch it was time for our second attempt at exploring the region. We found a tuk-tuk driver that looked like the Asian version of Charlie Sheen and off we went. First stop was a giant monkey pod tree. What can I say? It's a big tree, it's quite impressive, but it's a big tree and you're not allowed to climb it. </p>
+
+<!-- wp:image {"id":397,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://paid-leave.com/wp-content/uploads/2020/02/IMG_1366-1024x683.jpg" alt="" class="wp-image-397" height="350px"/></figure>
+<!-- /wp:image -->
+
+<p><b>Wat Tham Suea</b><br>
+We left for our final stop: <b>Wat Tham Suea</b>, a temple atop a hill that boasts a 18 metre tall 'cave Buddha' and great views of the countryside and rice fields. The frail (and sensible) can take a cable car up and the fit (but stupid) can walk a steep flight of stairs. We hadn't had proper exercise in a while so the glutes and quads had to report for duty. Having reached the summit and realised that our stamina is down in the dumps we had a nice look around, took the obligatory pictures and then gave in to the fatigue that comes with having to wake up at an ungodly hour.</p>
+
+<img src="/assets/images/kanchanaburi2.jpg" height="350px" />
+
+<p>Charlie took us back to the city where we bought a few beers at the 7/11 that we planned to kick back on the riverside at the hotel.</p>
+<p>Now, this is where the tears part comes in. Sitting on the banks of the river, sipping my beer while listening to the deafening sounds of birds and crickets as the sun set I think I finally had my moment of realisation. It suddenly came over me that I was finally doing the things I had wanted to do a long time. I remembered feeling so stuck and down as a teenager and in my early twenties, wanting to disappear, feeling like I was being pushed into a system I didn't believe in. I know, super millennial, but the point is I felt so happy and I wished that my past self could have seen it: you will feel better, things will work out, you will find a way to live life in a way that feels right to you. So there I was, crying a river on the banks of a river. </p>
+
+<p><b>Kanchanaburi Floating Night Market</b><br>
+When the beers and tears had dried we went out to the weekly floating market. It's a relatively small market with little variety, located close to the pier and open on Fridays. We sampled some delectable snacks; apparently you can put deep-fried onions on egg custard without creating a culinary monstrosity. Scout's honor. What did disturb us was the guy who lead the talent show we were watching, he had such a creepy high-pitched laugh that we were convinced he was the head of the local paedophile cartel. </p>
+<p>On our walk home we discovered how much of a cesspool Kanchanaburi really is. The city attracts a certain crowd of WWII history buffs (aka old white men), some with their spouses but many alone or with a couple of friends. It seems that, now with dwindling Chinese tourists numbers especially, the local tourism sector puts great effort into 'accommodating' the history buffs to make sure they have a grand time. Signs scream at you "Hungry? We have food... Thirsty? We have drinks... Lonely? We have bartenders!" and by that they mean the Thai girls sitting in bars waiting for the lonely hearts club members to stop by and it makes you wonder how much has changed since the time of comfort girls in WWII. This really is an aspect of Thailand that makes me cringe, seeing Thai girls and white men engage in a charade of courtship that really is a business transaction. </p>
+
+<p><b>Erawan National Park</b><br>
+The next day we slept in before heading farther west to Erawan National Park. We took a one-hour bus ride for 1.30 euros that left us at the park's entrance. There are guided trails and cave tours you can do at Erawan, but most people come to hike the unguided waterfall trail. It's a 2km hike uphill through lush green jungle and you walk along the tiered waterfall, passing 7 levels. If the heat and humidity are too much to bear, you can take a break and swim in the emerald pools or just chill and get a free pedicure as tiny fish nibble on your feet. It was beautiful, relaxing and oh so nice to be in nature... and boy were we happy and lucky that the Chinese tourists are staying away as the place is known for getting crowded during weekends.</p>
+
+<!-- wp:image {"id":401,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://paid-leave.com/wp-content/uploads/2020/02/IMG_1438-683x1024.jpg" alt="" class="wp-image-401"/></figure>
+<!-- /wp:image -->
+
+<p><b>Kanchanaburi Night Market</b><br>
+In the evening, after a few beers we took a tuk-tuk to a night market. Thanks to the good spirits we were in good spirits, that was up until the boys noticed I had something on my butt, nothing too serious they said. Turns out the cushion I had sat on in the tuk-tuk had bird poop on it, so I had to enjoy the market cesspool-style. At least they can't say I didn't dress for the occasion. </p>
+
+<p><b>WWII History in Kanchanaburi</b><br> 
+On our final day we went to see Kanchanburi's highlight: the bridge over the river Kwai, part of the Burma 'Death' Railway. This bridge was built during WWII when the Japanese wanted a railway line straight into Burma to supply their forces as their transportation routes over sea were vulnerable to attacks by Allied forces. They shipped allied prisoners of war (POW) and conscripted labourers from the Asian territories they occupied to work on the railway. Conditions, especially during the rainy season, were very poor. There were neither enough medical supplies nor food rations and the labourers endured brutalities from low-ranking officers (who were later convicted for war crimes). An estimated 16,000 POWs (British, Australian, American and Dutch) and 90,000 conscripted labourers died building the Death Railway. </p>
+<p>The bridge was bombed and rebuilt and is now the main tourist attraction, and as is usually the case when tourism trumps history, the bridge seems more of a photo-op than a site for reflection. People come to cross the bridge either on foot or by train and once they get to the other side they can buy souvenirs and snacks in the distastefully named "Prisoner of War Camp", a sort of market next to the bridge that would make you believe building the bridge was a walk in the park for those forced to construct it.    </p>
+
+<p> So that's the story... blood, sweat, mucus, bird poop and tears in Kanchanaburi. The journey back to Bangkok unfortunately took five hours on Sunday due to Thai trains' reliability. We've spent a last uneventful day in Bangkok and now we're in Koh Lanta for the next four weeks. Let's see what this island has got in store for us. </p>
