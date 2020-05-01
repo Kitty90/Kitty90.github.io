@@ -15,6 +15,14 @@ body {
 }
 img {
 	max-width:100%;
+	max-height: 400px;
+}
+.img_article {
+	display:flex;
+	justify-content: center;
+}
+.img_article img {
+	margin: 5px;
 }
 .tofront {
 	position:relative;
