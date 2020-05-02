@@ -3,8 +3,8 @@ name: 'Filtered Snippets'
 description: 'Filtered Snippets is a travel, lifestyle and food blog by a digital nomad and expat.'
 logo: 
 favicon: 'assets/images/favicon.ico'
-baseurl: ''
-disqus: 'filteredsnippets.github.io'
+
+# disqus: 'filteredsnippets.github.io'
 # email: 'wowthemesnet@gmail.com'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
