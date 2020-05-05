@@ -34,16 +34,21 @@ img {
 	align-items: center;
 	max-width: 100%;
 }
-.img_article_horizontal2 {
-	display: flex;
-	justify-content: center;
-	max-width: 100%;
-	margin-right: 10%; 
-	margin-left: 10%;
-	transform: translateX(-15%);
-}
 .img_article_horizontal2 img{
 	margin: 5px;
+}
+.img_article_horizontal2 {
+	display: flex;
+	width: 90vw;
+}
+@media (min-width:992px) {
+  .img_article_horizontal2{
+	  transform: translateX(-25vw);
+	}
+@media (min-width:1400px) {
+  .img_article_horizontal2{
+	  transform: translateX(-30vw);
+	}
 }
 .img_article_vertical2 img{
 	margin: 5px;
