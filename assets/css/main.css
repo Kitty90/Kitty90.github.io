@@ -5881,7 +5881,7 @@ button.bg-lightblue:focus {
     position: -webkit-sticky;
     position: sticky;
     top: 0;
-    z-index: 1020; } }
+    z-index: 00; } }
 
 .sr-only {
   position: absolute;
