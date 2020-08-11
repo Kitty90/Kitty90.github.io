@@ -7,7 +7,7 @@ permalink: "/books.html"
 <div class="row justify-content-center">
     <div class="col-md-8">        
         <h4 class="font-weight-bold spanborder"><span>Posts about {{page.title}}</span></h4>
-            {% assign posts = site.posts | where:"categories","books" %}
+            {% assign posts = site.posts | where:"categories","hiking" %}
             {% for post in posts %}
             {% include main-loop-card.html %}
             {% endfor %}
